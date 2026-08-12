@@ -4,3 +4,4 @@ I am learning Git and GitHub practically.
 Git tracks changes in files.
 A commit saves a version of the project.
 GitHub stores Git repositories online.
+i am practicing git commands
